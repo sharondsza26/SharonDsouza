@@ -67,7 +67,7 @@ body{
      float:right;
      /* position: relative; */
      text-align: center;
-     text-shadow: #5793de 0px 0px 1px;
+     text-shadow: #076463 0px 0px 1px;
      width:400px;
      margin-top:110px;
      border-radius:15px;
@@ -108,8 +108,9 @@ body{
      padding:10px;
  }
  .projectsDescription{
-     background-color:#fcfcfc;
+     background-color:#076463;
      font-family: 'Abel', sans-serif;
+     color : white;
      width:400px;
      height:150px;
      margin-left:150px;
